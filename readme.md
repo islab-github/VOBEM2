@@ -5,7 +5,7 @@
 VOBEM2 is a vision dataset specially designed for the evaluation of the multi-view computer vision-aided wireless communicatons (multi-view CVWC) performance in millimeter and THz communication scenarios.
 It consists of 210 pairs of RGB and depth images taken from two different views.
 
-For more details of this work, see the paper "Role of Computer Vision in 6G Wireless Communications", in preparation for IEEE Wireless Communications http://isl.snu.ac.kr/publication.
+For more details of this work, see the paper "Role of Sensing and Computer Vision in 6G Wireless Communications", in preparation for IEEE Wireless Communications http://isl.snu.ac.kr/publication.
 
 ## Preparation
 Please download the VOBEM2 dataset from https://www.dropbox.com/scl/fo/oy35weokf9wr4mlinin6r/h?rlkey=swb1tmuej48clcrie7pljy2wp&dl=0.
